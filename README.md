@@ -17,4 +17,9 @@
 
   <h2>Disclaimer:</h2>
 <p>The books in this repository have been downloaded from <a href="https://englishonlineclub.com">EnglishOnlineClub.com</a> , <a href="https://pdfdrive.com">PDFDrive.com</a> and <a href="https://it-ebooks.info/"> IT eBooks</a>. Please respect the terms and conditions of these websites and ensure compliance with any licensing agreements associated with the books.</p>
+<h2>If you like it, please give it a star ⭐!</h2>
+    <p>By giving this repository a star ⭐, you show your support and encourage more contributions. Thank you!</p>
 
+  <hr>
+
+  <p align="center">Happy Reading and Coding! 📚💻</p>
