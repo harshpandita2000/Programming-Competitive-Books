@@ -16,5 +16,5 @@
   <p>If you have more valuable resources to add or find any issues, feel free to contribute by creating pull requests.</p>
 
   <h2>Disclaimer:</h2>
-<p>The books in this repository have been downloaded from <a href="https://englishonlineclub.com">EnglishOnlineClub.com</a> and <a href="https://pdfdrive.com">PDFDrive.com</a>. Please respect the terms and conditions of these websites and ensure compliance with any licensing agreements associated with the books.</p>
+<p>The books in this repository have been downloaded from <a href="https://englishonlineclub.com">EnglishOnlineClub.com</a> , <a href="https://pdfdrive.com">PDFDrive.com</a>,<a href="https://it-ebooks.info/">IT eBooks</a>. Please respect the terms and conditions of these websites and ensure compliance with any licensing agreements associated with the books.</p>
 
